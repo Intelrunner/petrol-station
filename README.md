@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+# PETROL STATION 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+*AKA "PumpBaron"*
 
-## Available Scripts
+Note: If you see a TODO you can tackle, fix it and make a pull request. Please don't start highlighting bugs yet. The whole damn thing is a bug. 
 
-In the project directory, you can run:
+## GitHub's only high-octane fuel station simulator for the modern age.
+(This description partially written by GitHub CoPilot)
 
-### `npm start`
+## What is it?
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+First and foremost - it's a side project I started in mid-September 2022. While this project and it's goals will evolve, that first line should always be true. I used to play textually-prominent games such as Drug Wars, Oregon Trail, Zorks Revenge, Apple Adventure, etc -  and I wanted to make a similar type of (evolving) application. This is my effort to do that.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## What is it not?
 
-### `npm test`
+Finished, and ready for any kind of production activity. It's not professional, nor will it ever be.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Why are you sharing so early?
 
-### `npm run build`
+Because it takes a village. I am not a developer by trade (I'm a cloudy infrastructure person), and I've never designed a game. I'm hoping people will take some of the TODOs, and run with them. I don't expect this to be done soon, or easily. My goal is to have a playable iteration with a rudimentary UI by the end of 2022. 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Is this commercial?
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+No. It never will be, and neither can any property based off of it. When it's published for public enjoyment, it will likely have minor ad support to help pay for the infrastructure. The data will never be sold, and the code will remain open source.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## What makes this different
 
-### `npm run eject`
+I want to try and evolve this into both a game, and a modeling simulation (of sorts). I don't think NodeJS is the right language for that, but time will tell. It's what I started with, so it's what I'm going to carry forward with. Oddly enough, it wasn't a really thought out decision, I just started coding the basic logics in JS and it seems to work alright so far.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## What's the goal?
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+World Domination of the free-to-play petrol simulation market.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## What's the current status?
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+It's more dream then reality.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
